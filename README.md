@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iggytok
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning python
--📫 How to reach me ig: @iggy.tok
+- 📫 How to reach me ig: @iggy.tok
 
 - 
 <!---
